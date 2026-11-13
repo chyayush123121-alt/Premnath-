@@ -1,0 +1,6 @@
+{
+  "name": "Mahi AI",
+  "description": "Real-time voice-to-voice AI companion powered by Gemini Live API with expressive personality and instant browser actions.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
